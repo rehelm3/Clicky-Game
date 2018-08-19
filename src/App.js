@@ -8,8 +8,7 @@ import friends from "./friends.json";
 import "./App.css";
 
 class App extends Component {
-  // Setting this.state.friends to the friends json array
-  state = {
+ state = {
     friends,
     picked: [],
     correct: 0,
@@ -52,7 +51,6 @@ class App extends Component {
 
     }
   }
-  // Map over this.state.friends and render a FriendCard component for each friend object
   render() {
     return (
       <Wrapper>
