@@ -1,0 +1,22 @@
+.titlebar {
+  width: 100%;
+  margin-top: 100px;
+}
+
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  text-decoration: none;
+  color: #2A77AE;
+  margin-bottom: 50px;
+}
+
+.title2 {
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  text-decoration: none;
+  color: #2A77AE;
+  margin-bottom: 50px;
+}

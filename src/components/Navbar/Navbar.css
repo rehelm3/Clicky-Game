@@ -1,0 +1,27 @@
+.navbar {
+  margin: 0;
+  padding-top: 50px;
+  position: fixed;
+  background: #50379f;
+  height: 100px;
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+  z-index: 10;
+}
+
+.navli {
+  text-decoration: none;
+  text-align: center;
+  width: 33.3%;
+  float: left;
+  color: #fff;
+}
+
+ul {
+  width: 100%;
+  list-style: none;
+}
